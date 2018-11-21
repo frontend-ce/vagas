@@ -1,5 +1,5 @@
 ---
-name: Desenvolvedor FrontEnd XXXXXX na XXXXX
+name: Nome padrão de vaga 💻
 about: "Descrição da vaga! \U0001F61C"
 
 ---
