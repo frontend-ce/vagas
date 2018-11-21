@@ -1,6 +1,7 @@
 <p align="center">
 <!-- <img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil"> -->
 </p>
+<h1 align="center">FRONT-END CE [ VAGAS ]</h1>
 
 # Vagas
 ## Só são permitidas vagas Front-End e no estado do Ceará
