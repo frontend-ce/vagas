@@ -27,11 +27,11 @@ Exemplo: ` Front-End Developer na [NOME DA EMPRESA] `
 
 <!-- Todas as oportunidades serão automaticamente compartilhadas no [@frontendbrvagas](https://twitter.com/frontendbrvagas). -->
 
-### Repositório de Vagas de Front-End para todo o Brasil, tem até umas vagas extrangeiras. Cola lá!
+### Repositório de Vagas de Front-End para todo o Brasil, tem até umas vagas internacionais. Cola lá!
 
-- [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
+- [Vagas para Front-End Developer](https://github.com/frontendbr/vagas)
 
-Inclusive esse README foi copiado de lá. Nós copiamos, só não foi igual. ;) hehe
+Inclusive, nosso `README.md` foi baseado no do Front-End BR. `Copia, só não faz igual.`
 
 <!-- ## Licença -->
 <!-- 
