@@ -4,7 +4,7 @@
 <h1 align="center">FRONT-END CE [ VAGAS ]</h1>
 
 # Vagas
-## Só são permitidas vagas Front-End no estado do Ceará e/ou Remotas
+## Só são permitidas vagas Front-End no estado do Ceará e/ou Remoto
 
 As vagas devem ser divulgadas via _issues_ do Github.
 
