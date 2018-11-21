@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Desenvolvedor FrontEnd XXXXXX na XXXXX
+about: "Descrição da vaga! \U0001F61C"
 
 ---
 
