@@ -31,6 +31,8 @@ Exemplo: ` Front-End Developer na [NOME DA EMPRESA] `
 
 - [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
 
+Inclusive esse README foi copiado de lá. Nós copiamos, só não foi igual. ;) hehe
+
 <!-- ## Licença -->
 <!-- 
 [MIT](/LICENSE) &copy; FrontendBR -->
